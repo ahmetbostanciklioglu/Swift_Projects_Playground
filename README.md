@@ -1,2 +1,2 @@
-# Swift_Projects_Playground
-Swift Projects - Playground
+# Swift_Playground_Projects
+Swift - Playground Projects
